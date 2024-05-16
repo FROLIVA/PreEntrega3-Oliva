@@ -1,0 +1,5 @@
+1- Puse la etiqueta META en todos los documentos HTML
+2- Utilizo las etiquetas semanticas 
+3- Incluí el texto alternativo en todas las imagenes 
+4- Acomode el código para hacerlo lo mas entendible posible.
+5- Utilicé comentarios para poder guiarme dentro del código.
